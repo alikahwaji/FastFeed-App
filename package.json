@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/alikahwaji/fast-back/issues"
   },
-  "homepage": "https://github.com/alikahwaji/fast-back#readme"
+  "homepage": "https://github.com/alikahwaji/fast-back#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
